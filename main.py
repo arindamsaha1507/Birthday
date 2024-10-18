@@ -4,7 +4,7 @@ import streamlit as st
 paragraph = """
 "1. __________ Singh or 2. ____________ Bhabhi? What should we watch today?" As per our daily ritual, we keep on getting frustrated on what to watch while eating dinner. Suddenly the doorbell rings and I open the door. Our next door neighbour 3. ____________ ji and your colleague 4. ____________ ji who lives in the house in front are at the door. Surprisingly, they are accompanied by Pramod ji's next door neighbour and the mother of 5. _________.
 
-You are taken by surprise as they come with a 6. ____________ Chocolate cake, chicken gyozas from 7. ____________, namkeen 8. ____________, and chineese noodles from 9. ____________. Each item of food is of your liking. It is clear to you that the rest of the food, such as prawn biryani and dal baati are home-made. At any rate, they cannot be from the nearby 10. ____________ restaurant as it's kitchen seems to close absurdly early. Pramod ji also brought some chineese 11. ____________ just in case the gyozas were not similar enough to momos. People have also brought 12. ____________ vodka, one of the brands that you like. "If you want anything else, we can always go to 13. ____________ in Croydon", says Pramod ji.
+You are taken by surprise as they come with a 6. ____________ Chocolate cake, chicken gyozas from 7. ____________, namkeen 8. ____________, and chineese noodles from 9. ____________. Each item of food is of your liking. It is clear to you that the rest of the food, such as prawn biryani and dal baati are home-made. At any rate, they cannot be from the nearby 10. ____________ restaurant as it's kitchen seems to close absurdly early. Pramod ji also brought some chineese 11. ____________ just in case the gyozas were not similar enough to momos. People have also brought 12. ____________ vodka, one of the brands that you like. "If you want anything else, we can always go to 13. ____________ and Yeti in Croydon", says Pramod ji.
 
 You shake your head and ask, "but why the surprise party? What's the occasion?" Pramod ji says, "We have been planning this party while keeping it a secret from you. After all it is your 14. ________ 15. ________!"
 
@@ -25,7 +25,7 @@ correct_words = {
     10: 'Harvester',
     11: 'Dumplings',
     12: 'Absolut',
-    13: 'Yak and Yeti',
+    13: 'Yak',
 }
 
 st.title("Harshda's Birthday Party")
