@@ -56,9 +56,9 @@ col1, col2, col3 = st.columns(3)
 # Text input for the guesses (arranged in three columns)
 guesses = {}
 for i in range(1, 14):
-    if i % 3 == 1:
+    if i < 4:
         guesses[i] = col1.text_input(f"Word {i} ({len(correct_words[i])} letters)", "")
-    elif i % 3 == 2:
+    elif i < 7:
         guesses[i] = col2.text_input(f"Word {i} ({len(correct_words[i])} letters)", "")
     else:
         guesses[i] = col3.text_input(f"Word {i} ({len(correct_words[i])} letters)", "")
